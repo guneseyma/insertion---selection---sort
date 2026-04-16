@@ -1,4 +1,4 @@
-# insertion---selection---sort
+# insertion-----sort
 lnsertion ve selection sort örnek1
 Başlangıç: [22, 27, 16, 2, 18, 6]
 
